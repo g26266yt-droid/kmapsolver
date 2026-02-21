@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://g2626yt-droid.github.io/kmapsolver/sitemap.xml
